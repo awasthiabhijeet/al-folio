@@ -16,13 +16,13 @@ news: true
 social: true
 ---
 
-I am a first year PhD Student at the [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in), [IIT Bombay](https://www.iitb.ac.in). My interests lie in the area of Machine Learning. I am currently working on problems in areas related to Lifelong Learning, Meta-Learning and Learning to Learn paradigms.
-<br/>In past I have worked on constructive learning algorithms for dynamically growing neural networks as a part of my undergraduate thesis at [IIT Kharagpur](https://www.iitkgp.ac.in).
+I am a first year PhD Student at the [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in), [IIT Bombay](https://www.iitb.ac.in). My interests lie in the area of Machine Learning. I am currently working on problems in Continual Learning. 
+<br/>In past I have worked on algorithms for dynamically growing neural networks as a part of my undergraduate thesis at [IIT Kharagpur](https://www.iitkgp.ernet.in).
 
 Education
 ======
 * Ph.D. in Computer Science and Engineering, [IIT Bombay](https://www.iitb.ac.in), 2017-Present
-* B.Tech. in Electronics and Electrical Communication Engineering, [IIT Kharagpur](https://www.iitkgp.ac.in), 2012-2016
+* B.Tech. in Electronics and Electrical Communication Engineering, [IIT Kharagpur](https://www.iitkgp.ernet.in), 2012-2016
 
 Work experience
 ======
