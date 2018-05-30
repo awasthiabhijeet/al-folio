@@ -7,10 +7,7 @@ description: PhD Student <br/>Computer Science and Engineering<br/>Indian Instit
 profile:
   align: right
   image: prof_pic.jpg
-  address: >
-    <p>CC-303 New CSE Buliding </p>
-    <p>IIT Bombay,Powai-400076</p>
-    <p>Mumbai, India</p>
+
 
 news: true
 social: true
