@@ -1,7 +1,7 @@
 ---
 layout: post
-date: 2017-07-13 07:59:00-0400
+date: 2018-07 
 inline: true
 ---
 
-Joined IIT Bombay as a PhD Stduent.
+Awarded Google PhD Fellowship. Thanks Google! :)

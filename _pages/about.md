@@ -13,7 +13,7 @@ news: true
 social: true
 ---
 
-I am a first year PhD Student at the [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in), [IIT Bombay](https://www.iitb.ac.in). My interests lie in the area of Machine Learning. I am currently working on problems in Continual Learning. 
+I am a second year PhD Student at the [Department of Computer Science and Engineering](https://www.cse.iitb.ac.in), [IIT Bombay](https://www.iitb.ac.in). My interests lie in the area of Machine Learning. I am currently working on problems in Continual Learning. 
 <br/>In past I have worked on algorithms for dynamically growing neural networks as a part of my undergraduate thesis at [IIT Kharagpur](https://www.iitkgp.ernet.in).
 
 Education
